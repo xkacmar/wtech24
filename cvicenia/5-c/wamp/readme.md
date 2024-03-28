@@ -4,7 +4,7 @@ Na spustenie Laravel aplikácie nie je potrebné rozbehávať vlastný webový s
 
 ## Laravel - zabudovaný web server (php artisan serve) ##
 
-1. Nainštalujte si [PHP](https://www.php.net/downloads) + [Composer](https://getcomposer.org/download/). Po inštalácii nezabudnite zapnúť PHP rozšírenia [potrebné pre Laravel](https://laravel.com/docs/5.7/installation) v súbore `php.ini`:
+1. Nainštalujte si [PHP](https://www.php.net/downloads) + [Composer](https://getcomposer.org/download/). Po inštalácii nezabudnite zapnúť PHP rozšírenia [potrebné pre Laravel](https://laravel.com/docs/11.x/installation) v súbore `php.ini`:
       * OpenSSL PHP Extension
       * PDO PHP Extension
       * Mbstring PHP Extension
@@ -13,7 +13,8 @@ Na spustenie Laravel aplikácie nie je potrebné rozbehávať vlastný webový s
       * Ctype PHP Extension
       * JSON PHP Extension
       * BCMath PHP Extension
-2. Vytvorte Laravel projekt - postupujte podľa krokov z prednášky, príp. [Laravel Installation](https://laravel.com/docs/5.7/installation)
+      * [celý zoznam](https://laravel.com/docs/11.x/deployment#server-requirements)
+2. Vytvorte Laravel projekt - postupujte podľa krokov z prednášky, príp. [Laravel Installation](https://laravel.com/docs/11.x/installation)
 3. Príkazom `php artisan serve` je možné vytvoriť inštanciu lokálneho webového servera a zároveň spustiť Laravel aplikáciu (musíte byť v priečinku aplikácie). 
 
 
