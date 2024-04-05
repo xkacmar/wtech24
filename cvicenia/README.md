@@ -33,3 +33,6 @@
 * [Prvý Laravel projekt, rozbehanie vlastného webového serveru](5-c/wamp)
 * [PHP rýchlokurz](/prednasky/PHP-rychlokurz)
 * [PHP základy, Laravel - príklady na precvičenie](5-c/laravel-uvod)
+
+**Cvičenie 6**
+* [Laravel - Jednoduchý manažér úloh](/cvicenia/6-c/manazer-uloh)
