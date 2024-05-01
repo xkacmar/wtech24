@@ -19,3 +19,4 @@
 6. [Laravel - základné koncepty architektúry, Blade, ORM (Eloquent), vzťahy medzi modelmi](zdroje/06-WT-laravel-koncepty-architetury-blade-orm-vztahy.pdf)
 
 7. [Taskmanager - technológie (pokračovanie)](zdroje/taskmanager-technologie.pptx)
+   - [PDF](zdroje/taskmanager-technologie.pdf)
