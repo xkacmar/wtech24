@@ -18,5 +18,6 @@
 
 6. [Laravel - základné koncepty architektúry, Blade, ORM (Eloquent), vzťahy medzi modelmi](zdroje/06-WT-laravel-koncepty-architetury-blade-orm-vztahy.pdf)
 
-7. [Taskmanager - technológie (pokračovanie)](zdroje/taskmanager-technologie.pptx)
-   - [PDF](zdroje/taskmanager-technologie.pdf)
+7. [Laravel - sedenia (sessions), cache, validácia, logovanie, obsluha chýb (error handling), udalosti (events), autorizácia, lokalizácia (i18n), jednotkové testovanie (unit testing)](zdroje/07-WT-laravel-technologie.pdf)
+   - [Jednoduchý manažér úloh: pridanie ďalších technológií - prezentácia HANDS ON](zdroje/taskmanager-technologie.pdf)
+   - [Zdrojový kód](zdroje/taskmanager-fin.zip)
